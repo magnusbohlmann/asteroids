@@ -1,0 +1,9 @@
+# Claude-interne Entwickler-Notizen – nicht veröffentlichen
+CLAUDE.md
+
+# macOS
+.DS_Store
+
+# Editor-Ordner
+.vscode/
+.idea/
